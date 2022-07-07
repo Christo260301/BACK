@@ -5,7 +5,6 @@ const conexion = mysql.createConnection({
     host: 'us-cdbr-east-06.cleardb.net',
     user:'bf8476d514b387',
     password: '78f32cf2',
-    port: 3306,
     database: 'heroku_e6e23bf905e2e7d'
 });
 
