@@ -2,7 +2,7 @@
 require('./config/conexion');
 
 const express = require('express');
-const port = (process.env.port || 3050);
+const port = (process.env.port || 5000);
 const app = express();
 
 //Este fragmento admite el tipo de dato
